@@ -12,7 +12,7 @@ namespace Windows_Forms_Sample
         private void button1_Click(object sender, EventArgs e)
         {
             //mock data
-            string userName = "Von";
+            string userName = "Greg";
             string passWord = "123";
 
             if (userName == UsernameTxtbox.Text && passWord == PasswordTxtBox.Text)
