@@ -36,7 +36,7 @@ namespace Windows_Forms_Sample
                 Size = new System.Drawing.Size(120, 120),
                 Location = new System.Drawing.Point((this.ClientSize.Width - 120) / 2, 10),
                 BorderStyle = BorderStyle.FixedSingle,
-                Image = Image.FromFile(@"C:\Users\eronb\source\repos\cloned\Picture.png"),
+                Image = Image.FromFile(@"C:\Users\Greg\source\repos\WinForms\Picture.png"),
                 SizeMode = PictureBoxSizeMode.StretchImage
             };
             this.Controls.Add(studentPictureBox);
@@ -81,7 +81,7 @@ namespace Windows_Forms_Sample
         {
             Label label = new Label
             {
-                Text = text + "Playing Games",
+                Text = text + "Playing Games, Playing Basketball",
                 AutoSize = true,
                 Location = new System.Drawing.Point((this.ClientSize.Width - 200) / 2, y)
             };
@@ -91,15 +91,15 @@ namespace Windows_Forms_Sample
 
         private void LoadStudentDetails()
         {
-            lblName.Text += "Von Andrie M. Macaraeg";
+            lblName.Text += "Greg D. Todio";
             lblAge.Text += "22";
-            lblAddress.Text += "Nalasian Norte Bayambang Pangasinan";
-            lblContactNumber.Text += "09958621062";
-            lblEmail.Text += "vmacaraeg65@gmail.com";
-            lblCourseYear.Text += "BSIT DA 3-1";
-            lblGuardianName.Text += "Josephine Macaraeg";
-            lblGuardianContact.Text += "09556835824";
-            lblNickname.Text += "Princess Sarah, Bon, Andong";
+            lblAddress.Text += "Buayaen Bayambang Pangasinan";
+            lblContactNumber.Text += "09613966244";
+            lblEmail.Text += "gregorio.todio@gmail.com";
+            lblCourseYear.Text += "BSIT WMT 3-1";
+            lblGuardianName.Text += "Lolita Todio";
+            lblGuardianContact.Text += "09613966244";
+            lblNickname.Text += "Onyok, Greg sobrang pogi/mabait/mapagmahal";
         }
 
         private void BtnEditUpdate_Click(object sender, EventArgs e)
