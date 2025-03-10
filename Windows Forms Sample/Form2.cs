@@ -36,7 +36,7 @@ namespace Windows_Forms_Sample
                 Size = new System.Drawing.Size(120, 120),
                 Location = new System.Drawing.Point((this.ClientSize.Width - 120) / 2, 10),
                 BorderStyle = BorderStyle.FixedSingle,
-                Image = Image.FromFile(@"C:\Users\Greg\source\repos\WinForms\Picture.png"),
+                Image = Image.FromFile(@"C:\Users\Greg\source\repos\WinForms\Picture.jpg"),
                 SizeMode = PictureBoxSizeMode.StretchImage
             };
             this.Controls.Add(studentPictureBox);
