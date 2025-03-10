@@ -1,0 +1,18 @@
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows_Forms_Sample.Form1.resources
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.csproj.GenerateResource.cache
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.AssemblyInfoInputs.cache
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.AssemblyInfo.cs
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.csproj.CoreCompileInputs.cache
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.sourcelink.json
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.exe
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.deps.json
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.runtimeconfig.json
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.dll
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\bin\Debug\net8.0-windows\Windows Forms Sample.pdb
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.dll
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\refint\Windows Forms Sample.dll
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.pdb
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows Forms Sample.genruntimeconfig.cache
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\ref\Windows Forms Sample.dll
+C:\Users\eronb\source\repos\cloned\Windows Forms Sample\obj\Debug\net8.0-windows\Windows_Forms_Sample.Form2.resources
